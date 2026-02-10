@@ -64,7 +64,7 @@ git status
 
 #### 8. Картинка
 
-
+![страница](repo/browser_Ponomareva.png)
 
 ---
 

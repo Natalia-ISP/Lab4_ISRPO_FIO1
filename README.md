@@ -38,7 +38,7 @@ README.md - документация проекта
 + пункт 1
     * пункт 2
 
-![картинка]()
+![картинка](repo/backend_Ponomareva.png)
 
 ```python
 print("hi")
@@ -63,10 +63,10 @@ Console.ReadLine();
 
 #### Скриншоты из папки repo
 
-![]()
-![]()
-![]()
-![]()
+![открытая страница](repo/browser_Ponomareva.png)
+![работа программы](repo/backend_Ponomareva.png)
+![структура проекта](repo/terminal_Ponomareva.png)
+![коммиты](repo/git_Ponomareva.png)
 
 ---
 
